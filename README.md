@@ -59,7 +59,9 @@ Mean Well LRS-150-12
 ```
 
 ---
+## System Architecture Diagram
 
+![Single Axis Architecture](hardware/wiring_diagram/single_axis_architecture_v1,.png)
 # Repository Structure
 
 ```text
