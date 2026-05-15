@@ -216,3 +216,24 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+```gitignore
+# =========================
+# ROS2
+# =========================
+
+install/
+log/
+
+# =========================
+# PlatformIO
+# =========================
+
+.pio/
+
+# =========================
+# VS Code database cache
+# =========================
+
+.vscode/.browse.c_cpp.db*
+```
